@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hassan" >> iacta
+tail -n 1 < iacta >> iacta
