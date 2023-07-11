@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'new dy'
+git commit -m 'hello you'
 git push
